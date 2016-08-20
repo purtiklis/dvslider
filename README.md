@@ -14,7 +14,7 @@ pager: true,                        // show pagination
 nav: false,                         // show navigation using < and >
 count: false,                       // show count (ex.: 1 slide of 12 )
 swiping: true,                      // enable swiping for touch devices
-gap: 0,								// gap between slides
+gap: 0,								// gap between slides (must add margin-left or whatever in css)
 pagerClass: '',                     // extra pagination class
 width:                              // width of slider
 	function(el) { 
