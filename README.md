@@ -17,11 +17,11 @@ swiping: true,                      // enable swiping for touch devices
 gap: 0,								// gap between slides (must add margin-left or whatever in css)
 pagerClass: '',                     // extra pagination class
 width:                              // width of slider
-	function(el) { 
-		return el.outerWidth();
+	function(sliderElement) { 
+		return sliderElement.outerWidth();
 	},
 onChange:                           // event on slide change
-	function(el, activeSlide, previousSlide) {}
+	function(sliderElement, activeSlide, previousSlide) {}
 ```
 
 Mthods
