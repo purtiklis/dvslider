@@ -1,4 +1,4 @@
 # dvslider
 jQuery slider
 
-yay
+yay!
