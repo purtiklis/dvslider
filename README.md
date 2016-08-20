@@ -1,5 +1,2 @@
-# dvslider
-jQuery slider
-
-yay!
-!!!!
+# DVslider
+Just another jQuery slider
